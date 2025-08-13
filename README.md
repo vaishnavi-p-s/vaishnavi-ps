@@ -52,4 +52,4 @@ A **voice-based AI collections agent** built using VAPI and prompt engineering.
 
 ✨ Fun fact: I love creating AI tools that are **interactive, visual, and music-friendly!**  
 
-![Decorative AI GIF](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
+![Decorative AI GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
