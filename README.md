@@ -1,14 +1,14 @@
-# Hi there 👋, I'm Sreevaishnavi P S  
+# 👋 Hi, I'm Sreevaishnavi P S
 
-🎓 Final Year B.Tech | CSE | Symbiosis Institute of Technology, Pune  
-💡 AI & GenAI Enthusiast | Prompt Engineer | Creative Tech  
+🎓 Final Year B.Tech | Computer Science & Engineering  
+💡 AI & Generative AI Enthusiast | Prompt Engineer | Creative Tech Explorer  
 
 ---
 
 ## 🛠 Skills & Tools
 - **Programming:** Java, Python, C, C++, SQL, HTML  
-- **AI & ML:** OpenAI API, VAPI, Replit, Generative AI tools  
-- **Creative Tools:** Stable Diffusion, Covertune, EchoVid  
+- **AI & ML Tools:** OpenAI API, VAPI, Replit, Generative AI pipelines  
+- **Creative Tools:** Stable Diffusion, EchoVid, Covertune  
 - **Other Tools:** Git, GitHub, Colab, Canva  
 
 ---
@@ -16,8 +16,8 @@
 ## 🚀 Projects  
 
 ### 🎬 EchoVid - AI Video Generator
-Generates animated videos from **text or audio prompts** using Stable Diffusion.  
-Example prompts:  
+Create animated videos from **text or audio prompts** using Stable Diffusion.  
+Some fun examples:  
 - 🐦 Birds flying up in the sky  
 - 👑 Beauty and the Beast dancing  
 
@@ -26,22 +26,22 @@ Example prompts:
 ---
 
 ### 🎵 CoverTune
-Generates **album cover images** from song lyrics in Malayalam, Tamil, Hindi, or English.  
-🎤 Fun for musicians & content creators!  
+Generate **album cover images** from song lyrics in Malayalam, Tamil, Hindi, or English.  
+Perfect for musicians & content creators!  
 
 **Repo:** [CoverTune-AI](https://github.com/vaishnavi-ps/CoverTune-AI)  
 
 ---
 
 ### 🤖 Maria Virtual Assistant
-A **voice-based AI collections agent** built using VAPI and prompt engineering.  
-💬 Handles natural conversations about overdue payments with users.  
+A **voice-based AI collections agent** built with VAPI and prompt engineering.  
+Handles natural conversations about overdue payments with professionalism and warmth.  
 
 **Demo:** [Try Maria](https://vapi.ai?demo=true&shareKey=e60f6900-cca8-47ae-abc7-dd4e5552ec8d&assistantId=2d6a031a-908b-4ec4-bda1-4313bcbee677)  
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 📍 Thrissur, Kerala  
 📱 +91 9497339491 | +91 8590861071  
 ✉️ vaishnavips555@gmail.com  
@@ -50,6 +50,5 @@ A **voice-based AI collections agent** built using VAPI and prompt engineering.
 
 ---
 
-✨ Fun fact: I love creating AI tools that are **interactive, visual, and music-friendly!**  
-
-![Decorative AI GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+✨ Fun Fact: I love creating **AI tools that are interactive, visual, and music-friendly!**  
+🌟 Always exploring ways to blend **technology with creativity**.
