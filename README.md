@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Sreevaishnavi P S
+# 👋 Hi, I'm Sreevaishnavi P S (Vaishnavi)
 
-![AI Chatbot](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)  
+![GIF Option 1](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy-downsized-small.gif)  
+<!-- Alternatives if you want to rotate: -->
+<!-- ![GIF Option 2](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy-downsized-small.gif) -->
+<!-- ![GIF Option 3](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy-downsized-small.gif) -->
 
-🎓 Final Year B.Tech | Computer Science & Engineering  
-💡 AI & Generative AI Enthusiast | Prompt Engineer | Creative Tech Explorer  
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=500&lines=AI+Enthusiast;Prompt+Engineer;Creative+Tech+Explorer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=500&lines=Hey!+I'm+Vaishnavi,+a+final+year+B.Tech+student+in+CS+Engineering.;I+love+working+on+AI,+generative+AI+projects,+and+prompt+engineering.;Always+exploring+creative+tech+tools+to+make+interactive+and+visual+AI+experiences.)
 
 ---
 
@@ -21,8 +21,8 @@
 
 ### 🎬 EchoVid - AI Video Generator
 Create animated videos from **text or audio prompts** using Stable Diffusion.  
-Some fun examples:  
-- 🐦 Birds flying up in the sky  
+Fun examples:  
+- 🐦 Birds flying in the sky  
 - 👑 Beauty and the Beast dancing  
 
 **Repo:** [EchoVid Dataset](https://github.com/vaishnavi-ps/EchoVid-Dataset)  
@@ -31,7 +31,6 @@ Some fun examples:
 
 ### 🎵 CoverTune
 Generate **album cover images** from song lyrics in Malayalam, Tamil, Hindi, or English.  
-Perfect for musicians & content creators!  
 
 **Repo:** [CoverTune-AI](https://github.com/vaishnavi-ps/CoverTune-AI)  
 
@@ -39,7 +38,7 @@ Perfect for musicians & content creators!
 
 ### 🤖 Maria Virtual Assistant
 A **voice-based AI collections agent** built with VAPI and prompt engineering.  
-Handles natural conversations about overdue payments with professionalism and warmth.  
+Handles natural conversations about overdue payments with warmth and professionalism.  
 
 **Demo:** [Try Maria](https://vapi.ai?demo=true&shareKey=e60f6900-cca8-47ae-abc7-dd4e5552ec8d&assistantId=2d6a031a-908b-4ec4-bda1-4313bcbee677)  
 
@@ -55,9 +54,9 @@ Handles natural conversations about overdue payments with professionalism and wa
 ---
 
 ## 🌟 Fun Fact
-I love creating **AI tools that are interactive, visual, and music-friendly!**  
-🎨 Blending **art with technology** is my creative playground  
-🎶 Music inspires my AI experiments
+I love making **AI tools that are visual, interactive, and music-friendly!**  
+🎨 Blending **creativity with code** is my playground  
+🎶 Music often sparks my AI experiments
 
 ---
 
