@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sreevaishnavi P S (Vaishnavi)
 
 <p float="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=100&color=00ff00&width=500&lines=Hey!+I'm+Vaishnavi,+a+final-year+Computer+Science+student.+I+love+building+AI+and+Generative+AI+projects,+exploring+creative+tech+tools,+and+making+interactive+AI+experiences.+Always+learning+and+blending+creativity+with+code!" width="550" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=100&color=00ff00&width=500&lines=Hey!+I'm+Vaishnavi,+a+final-year+Computer+Science+student.+I+love+building+AI+and+Generative+AI+projects,+exploring+creative+tech+tools,+and+making+interactive+AI+experiences.+Always+learning+and+blending+creativity+with+code!" width="550" />
   <img src="https://docket.acc.com/sites/default/files/inline-images/scene2_alt.gif" width="200" height="150" />
 </p>
 
