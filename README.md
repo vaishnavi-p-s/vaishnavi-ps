@@ -1,20 +1,20 @@
-# <p float="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=100&color=00ff00&width=500&lines=👋+Hi,+I'm+Sreevaishnavi+P+S+(Vaishnavi)" />
-  <img src="https://docket.acc.com/sites/default/files/inline-images/scene2_alt.gif" width="200" height="150" />
+# <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0F75BC&background=FFFFFF00&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Sreevaishnavi+P+S+(Vaishnavi)" alt="Typing SVG"/>
 </p>
 
----
+<p align="center">
+  <img src="https://docket.acc.com/sites/default/files/inline-images/scene2_alt.gif" width="180" alt="AI / Tech GIF"/>
+</p>
 
-💡 I'm a final-year B.Tech student in Computer Science & Engineering.  
-I love building AI and Generative AI projects, exploring creative tech tools, and making interactive AI experiences.  
-Always learning, experimenting, and blending creativity with code to solve real-world problems in fun and innovative ways!
+## About Me
+I'm in my final year of B.Tech in Computer Science & Engineering. I love exploring **AI and Generative AI**, building **interactive projects** that mix creativity and technology. I enjoy making tools that are **visual, musical, and fun to interact with**, and I love sharing what I learn along the way! 🚀✨
 
 ---
 
 ## 🛠 Skills & Tools
 - **Programming:** Java, Python, C, C++, SQL, HTML  
 - **AI & ML Tools:** OpenAI API, VAPI, Replit, Generative AI pipelines  
-- **Creative Tools:** Stable Diffusion, EchoVid, CoverTune  
+- **Creative Tools:** Stable Diffusion, EchoVid, Covertune  
 - **Other Tools:** Git, GitHub, Colab, Canva  
 
 ---
@@ -23,9 +23,7 @@ Always learning, experimenting, and blending creativity with code to solve real-
 
 ### 🎬 EchoVid - AI Video Generator
 Create animated videos from **text or audio prompts** using Stable Diffusion.  
-Some fun examples:  
-- 🐦 Birds flying up in the sky  
-- 👑 Beauty and the Beast dancing  
+Fun examples include: 🐦 Birds flying, 👑 Beauty and the Beast dancing.  
 
 **Repo:** [EchoVid Dataset](https://github.com/vaishnavi-ps/EchoVid-Dataset)  
 
@@ -33,7 +31,6 @@ Some fun examples:
 
 ### 🎵 CoverTune
 Generate **album cover images** from song lyrics in Malayalam, Tamil, Hindi, or English.  
-Perfect for musicians & content creators!  
 
 **Repo:** [CoverTune-AI](https://github.com/vaishnavi-ps/CoverTune-AI)  
 
@@ -51,10 +48,7 @@ Handles natural conversations about overdue payments with professionalism and wa
 📍 Thrissur, Kerala  
 📱 +91 9497339491 | +91 8590861071  
 ✉️ vaishnavips555@gmail.com  
-💻 GitHub: [github.com/vaishnavi-ps](https://github.com/vaishnavi-ps)  
+💻 GitHub: [github.com/vaishnavi-p-s](https://github.com/vaishnavi-p-s)  
 💼 LinkedIn: [linkedin.com/in/sreevaishnavi-ps-78a42425b](https://www.linkedin.com/in/sreevaishnavi-ps-78a42425b)  
 
----
-
-✨ Fun Fact: I love creating **AI tools that are interactive, visual, and music-friendly!**  
-🌟 Always exploring ways to blend **technology with creativity**.
+✨ Fun Fact: I love **mixing technology with creativity**—especially AI tools that are interactive, visual, and music-friendly!
