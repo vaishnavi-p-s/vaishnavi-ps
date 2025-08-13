@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sreevaishnavi (Vaishnavi)  
+# Hi there 👋, I'm Sreevaishnavi P S  
 
 🎓 Final Year B.Tech | CSE | Symbiosis Institute of Technology, Pune  
 💡 AI & GenAI Enthusiast | Prompt Engineer | Creative Tech  
@@ -17,10 +17,9 @@
 
 ### 🎬 EchoVid - AI Video Generator
 Generates animated videos from **text or audio prompts** using Stable Diffusion.  
-Animated previews:  
+Example prompts:  
 - 🐦 Birds flying up in the sky  
 - 👑 Beauty and the Beast dancing  
-![EchoVid GIF](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
 
 **Repo:** [EchoVid Dataset](https://github.com/vaishnavi-ps/EchoVid-Dataset)  
 
@@ -29,7 +28,6 @@ Animated previews:
 ### 🎵 CoverTune
 Generates **album cover images** from song lyrics in Malayalam, Tamil, Hindi, or English.  
 🎤 Fun for musicians & content creators!  
-![CoverTune GIF](https://media.giphy.com/media/3o7TKC6CylbPZqZKfK/giphy.gif)
 
 **Repo:** [CoverTune-AI](https://github.com/vaishnavi-ps/CoverTune-AI)  
 
@@ -37,19 +35,21 @@ Generates **album cover images** from song lyrics in Malayalam, Tamil, Hindi, or
 
 ### 🤖 Maria Virtual Assistant
 A **voice-based AI collections agent** built using VAPI and prompt engineering.  
-💬 Handles natural conversations with users about payments:  
-![Maria GIF](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)
+💬 Handles natural conversations about overdue payments with users.  
 
 **Demo:** [Try Maria](https://vapi.ai?demo=true&shareKey=e60f6900-cca8-47ae-abc7-dd4e5552ec8d&assistantId=2d6a031a-908b-4ec4-bda1-4313bcbee677)  
 
 ---
 
-## 📫 Connect with me
-- [GitHub](https://github.com/vaishnavi-ps)  
-- [LinkedIn](https://www.linkedin.com/in/vaishnavi-ps/)  
-- Email: vaishnavips555@gmail.com  
+## 📫 Contact
+📍 Thrissur, Kerala  
+📱 +91 9497339491 | +91 8590861071  
+✉️ vaishnavips555@gmail.com  
+💻 GitHub: [github.com/vaishnavi-p-s](https://github.com/vaishnavi-p-s)  
+💼 LinkedIn: [linkedin.com/in/sreevaishnavi-ps-78a42425b](https://www.linkedin.com/in/sreevaishnavi-ps-78a42425b)  
 
 ---
 
 ✨ Fun fact: I love creating AI tools that are **interactive, visual, and music-friendly!**  
 
+![Decorative AI GIF](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
