@@ -22,19 +22,16 @@ EchoVid is an AI-driven tool that generates animated videos from **text or audio
 
 ### 📸 Sample Outputs
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-  <figure style="margin: 0; text-align: center;">
-    <img src="https://github.com/vaishnavi-ps/EchoVid-Dataset/raw/main/Preview/beauty%20and%20the%20besat.png" width="200" />
-    <figcaption>Beauty and the Beast</figcaption>
-  </figure>
-
-  <figure style="margin: 0; text-align: center;">
-    <img src="https://github.com/vaishnavi-ps/EchoVid-Dataset/raw/main/Preview/birds%20flying%20(2).png" width="200" />
-    <figcaption>Birds Flying</figcaption>
-  </figure>
-
-</div>
+<table>
+  <tr>
+    <td><img src="Preview/beauty%20and%20the%20besat.png" width="200" /></td>
+    <td><img src="Preview/birds%20flying%20(2).png" width="200" /></td>
+    </tr>
+  <tr>
+    <td>Beauty and the Beast</td>
+    <td>Birds Flying</td>
+     </tr>
+</table>
 
 > **Note:** Video previews will be added in future updates.
 
