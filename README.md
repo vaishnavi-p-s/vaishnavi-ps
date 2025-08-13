@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Sreevaishnavi P S
 
+![AI Chatbot](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)  
+
 🎓 Final Year B.Tech | Computer Science & Engineering  
 💡 AI & Generative AI Enthusiast | Prompt Engineer | Creative Tech Explorer  
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=500&lines=AI+Enthusiast;Prompt+Engineer;Creative+Tech+Explorer)
 
 ---
 
@@ -50,5 +54,13 @@ Handles natural conversations about overdue payments with professionalism and wa
 
 ---
 
-✨ Fun Fact: I love creating **AI tools that are interactive, visual, and music-friendly!**  
-🌟 Always exploring ways to blend **technology with creativity**.
+## 🌟 Fun Fact
+I love creating **AI tools that are interactive, visual, and music-friendly!**  
+🎨 Blending **art with technology** is my creative playground  
+🎶 Music inspires my AI experiments
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavi-p-s&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-p-s&layout=compact&theme=radical)
