@@ -19,7 +19,7 @@ I'm in my final year of B.Tech in Computer Science & Engineering. I love explori
 
 ### 🎬 EchoVid - AI Video Generator
 Create animated videos from **text or audio prompts** using Stable Diffusion.  
-Fun examples include: 🐦 Birds flying, 👑 Beauty and the Beast dancing.  
+Fun examples include: 🐦 Birds flying, 👑Belle and the beast from Beauty and the Beast dancing.  
 
 **Repo:** [EchoVid Dataset](https://github.com/vaishnavi-ps/EchoVid-Dataset)  
 
