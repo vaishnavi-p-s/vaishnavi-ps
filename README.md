@@ -1,9 +1,13 @@
-# 👋 Hi, I'm Sreevaishnavi P S (Vaishnavi)
-
-<p float="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=100&color=00ff00&width=500&lines=Hey!+I'm+Vaishnavi,+a+final-year+Computer+Science+student.+I+love+building+AI+and+Generative+AI+projects,+exploring+creative+tech+tools,+and+making+interactive+AI+experiences.+Always+learning+and+blending+creativity+with+code!" width="550" />
+# <p float="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=100&color=00ff00&width=500&lines=👋+Hi,+I'm+Sreevaishnavi+P+S+(Vaishnavi)" />
   <img src="https://docket.acc.com/sites/default/files/inline-images/scene2_alt.gif" width="200" height="150" />
 </p>
+
+---
+
+💡 I'm a final-year B.Tech student in Computer Science & Engineering.  
+I love building AI and Generative AI projects, exploring creative tech tools, and making interactive AI experiences.  
+Always learning, experimenting, and blending creativity with code to solve real-world problems in fun and innovative ways!
 
 ---
 
@@ -47,7 +51,7 @@ Handles natural conversations about overdue payments with professionalism and wa
 📍 Thrissur, Kerala  
 📱 +91 9497339491 | +91 8590861071  
 ✉️ vaishnavips555@gmail.com  
-💻 GitHub: [github.com/vaishnavi-p-s](https://github.com/vaishnavi-p-s)  
+💻 GitHub: [github.com/vaishnavi-ps](https://github.com/vaishnavi-ps)  
 💼 LinkedIn: [linkedin.com/in/sreevaishnavi-ps-78a42425b](https://www.linkedin.com/in/sreevaishnavi-ps-78a42425b)  
 
 ---
