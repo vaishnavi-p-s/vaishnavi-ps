@@ -1,68 +1,55 @@
-# Hi there 👋, I’m Sreevaishnavi PS (Vaishnavi)
+# Hi there 👋, I'm Sreevaishnavi (Vaishnavi)  
 
-🎓 Final Year B.Tech, Computer Science & Engineering | Symbiosis Institute of Technology, Pune  
-
-💻 Passionate about **AI, Generative AI, Prompt Engineering, and Creative Tech**  
+🎓 Final Year B.Tech | CSE | Symbiosis Institute of Technology, Pune  
+💡 AI & GenAI Enthusiast | Prompt Engineer | Creative Tech  
 
 ---
 
 ## 🛠 Skills & Tools
-- **Programming & Backend:** Java, Python, MySQL  
-- **AI & Generative Tools:** Vapi, Replit, Stable Diffusion, Eleven Labs, OpenAI APIs  
-- **Projects & Frameworks:** Unity (AR/VR), Gradio, MoviePy  
-- **Creative Tools:** Canva, Poster/Presentation Design  
+- **Programming:** Java, Python, C, C++, SQL, HTML  
+- **AI & ML:** OpenAI API, VAPI, Replit, Generative AI tools  
+- **Creative Tools:** Stable Diffusion, Covertune, EchoVid  
+- **Other Tools:** Git, GitHub, Colab, Canva  
 
 ---
 
-## 🎯 Projects & Demos
+## 🚀 Projects  
 
-### 1. EchoVid - AI Video Generator
+### 🎬 EchoVid - AI Video Generator
+Generates animated videos from **text or audio prompts** using Stable Diffusion.  
+Animated previews:  
+- 🐦 Birds flying up in the sky  
+- 👑 Beauty and the Beast dancing  
+![EchoVid GIF](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
 
-EchoVid is an AI-driven tool that generates animated videos from **text or audio prompts** using Stable Diffusion.  
-
-### 📸 Sample Outputs
-
-<table>
-  <tr>
-    <td><img src="Preview/beauty%20and%20the%20besat.png" width="200" /></td>
-    <td><img src="Preview/birds%20flying%20(2).png" width="200" /></td>
-    </tr>
-  <tr>
-    <td>Beauty and the Beast</td>
-    <td>Birds Flying</td>
-     </tr>
-</table>
-
-> **Note:** Video previews will be added in future updates.
-
+**Repo:** [EchoVid Dataset](https://github.com/vaishnavi-ps/EchoVid-Dataset)  
 
 ---
 
-### 2. [Maria Virtual Assistant](https://vapi.ai?demo=true&shareKey=e60f6900-cca8-47ae-abc7-dd4e5552ec8d&assistantId=2d6a031a-908b-4ec4-bda1-4313bcbee677)
-A **virtual collections agent** built with Vapi and prompt engineering. Handles overdue payments professionally with natural speech and structured call flows.  
+### 🎵 CoverTune
+Generates **album cover images** from song lyrics in Malayalam, Tamil, Hindi, or English.  
+🎤 Fun for musicians & content creators!  
+![CoverTune GIF](https://media.giphy.com/media/3o7TKC6CylbPZqZKfK/giphy.gif)
 
-📽 Demo: [Download Video](https://github.com/vaishnavi-ps/Maria-Agent/raw/main/demo/Maria_demo.mp4)
-
----
-
-### 3. [Covertune](https://github.com/vaishnavi-p-s/CoverTune-AI)
-AI tool/prototype that **generates album cover images** from audio or text input of songs. Supports **Malayalam, Tamil, English, and Hindi** songs.  
-
-![Covertune Demo](https://github.com/vaishnavi-p-s/CoverTune-AI/raw/main/demo/cover_example.png)
+**Repo:** [CoverTune-AI](https://github.com/vaishnavi-ps/CoverTune-AI)  
 
 ---
 
-### 4. [Blood Donation System](https://github.com/vaishnavi-ps/Blood-Donation-System)
-A Java & MySQL application for **managing blood donations and donors**, with report generation and database integration.
+### 🤖 Maria Virtual Assistant
+A **voice-based AI collections agent** built using VAPI and prompt engineering.  
+💬 Handles natural conversations with users about payments:  
+![Maria GIF](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)
+
+**Demo:** [Try Maria](https://vapi.ai?demo=true&shareKey=e60f6900-cca8-47ae-abc7-dd4e5552ec8d&assistantId=2d6a031a-908b-4ec4-bda1-4313bcbee677)  
 
 ---
 
-## 🌐 Connect with Me
-- LinkedIn: [linkedin.com/in/vaishnavi-ps](https://www.linkedin.com/in/vaishnavi-ps)  
+## 📫 Connect with me
+- [GitHub](https://github.com/vaishnavi-ps)  
+- [LinkedIn](https://www.linkedin.com/in/vaishnavi-ps/)  
 - Email: vaishnavips555@gmail.com  
-- GitHub: [github.com/vaishnavi-ps](https://github.com/vaishnavi-ps)  
 
 ---
 
-## 📈 GitHub Stats
-![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavi-ps&show_icons=true&theme=radical)
+✨ Fun fact: I love creating AI tools that are **interactive, visual, and music-friendly!**  
+
