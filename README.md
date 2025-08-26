@@ -21,14 +21,14 @@ I'm in my final year of B.Tech in Computer Science & Engineering. I love explori
 Create animated videos from **text or audio prompts** using Stable Diffusion.  
 Fun examples include: 🐦 Birds flying, 👑Belle and the beast from Beauty and the Beast dancing.  
 
-**Repo:** [EchoVid Dataset](https://github.com/vaishnavi-ps/EchoVid-Dataset)  
+ 
 
 ---
 
 ### 🎵 CoverTune
 Generate **album cover images** from song lyrics in Malayalam, Tamil, Hindi, or English.  
 
-**Repo:** [CoverTune-AI](https://github.com/vaishnavi-ps/CoverTune-AI)  
+
 
 ---
 
